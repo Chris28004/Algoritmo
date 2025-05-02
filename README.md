@@ -1,2 +1,1 @@
-# Algoritmo
-Ejercicios de algoritmo
+
