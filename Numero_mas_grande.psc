@@ -1,14 +1,14 @@
 Algoritmo Numero_mas_grande 
 	Definir num1, num2 como Real
-	Escribir "Ingrese el primer número:"
+	Escribir "Ingrese el primer nÃºmero:"
 	Leer num1
-	Escribir "Ingrese el segundo número:"
+	Escribir "Ingrese el segundo nÃºmero:"
 	Leer num2
 	Si num1 > num2 Entonces 
-		Escribir "El número más grande es: ", num1
+		Escribir "El nÃºmero mÃ¡s grande es: ", num1
 	Sino 
 		Si num2 > num1 Entonces 
-			Escribir "El número más grande es: ", num2
+			Escribir "El nÃºmero mÃ¡s grande es: ", num2
 		Sino 
 			Escribir "Son iguales"
 		FinSi
